@@ -1,0 +1,8 @@
+{
+    "env": {
+        "MONGO_DB_NAME": <DB NAME>,
+        "MONGO_DB_URL": <Connection URL>,
+        "MONGO_DB_USER": <DB USER>,
+        "MONGO_DB_PW" : <DB_PASSWORD>
+    }
+}

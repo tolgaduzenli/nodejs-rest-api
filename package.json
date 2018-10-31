@@ -1,0 +1,17 @@
+{
+  "name": "node-rest-shop",
+  "version": "1.0.0",
+  "description": "Rest API with nodejs",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mongoose": "^5.3.8",
+    "morgan": "^1.9.1",
+    "nodemon": "^1.18.5"
+  }
+}
